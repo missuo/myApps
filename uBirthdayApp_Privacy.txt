@@ -1,0 +1,38 @@
+**uBirthday App Privacy Policy**
+
+Welcome to our product. The uBirthday App (referred to hereinafter as the "product and services") is developed and operated by YINGTAO YANG (referred to hereinafter as "we" or "us"). Ensuring the security of user data and the protection of privacy is our utmost priority. This Privacy Policy explains the data we collect and how it is processed when you visit and use our product and services.
+
+Please thoroughly and carefully read and ensure you fully understand the rules and key points of this Privacy Policy before continuing to use our product. By choosing to use our product, you are agreeing to the entirety of this Privacy Policy and consent to our collection and use of your relevant information. If you have any questions about this policy during the reading process, you can contact our customer service for clarification at me@missuo.me. If you disagree with this agreement or any part thereof, you should stop using our product and services.
+
+This Privacy Policy will help you understand the following:
+1. How we collect and use your personal information;
+2. How we store and protect your personal information;
+3. How we share, transfer, and publicly disclose your personal information.
+
+**1. How we collect and use your personal information**
+
+Personal information refers to any data recorded electronically or otherwise that can identify or reflect the activities of a specific individual, either alone or in combination with other information. The uBirthday App does not collect any personal information.
+
+**2. How we store and protect your personal information**
+
+As a general rule, we retain your personal information only for as long as it is necessary to achieve the purpose for which it was collected. We store your information for the strictly necessary duration to manage our relationship with you, such as when you create an account or obtain services from our product. If you decide to no longer use our product and services and voluntarily delete your account as required, all information will be permanently deleted. We use industry-standard security measures to protect the personal information you provide and encrypt key data, preventing unauthorized access, disclosure, use, modification, damage, or loss. We will take all reasonable and feasible measures to protect your personal information, employing encryption technologies to ensure data confidentiality and trusted protective mechanisms to guard against malicious attacks.
+
+**3. How we share, transfer, and publicly disclose your personal information**
+
+For the management of our daily business activities and to better serve our customers in pursuit of lawful interests, we use your personal information in compliance and appropriately. We only use this data for ourselves and do not share it with any third parties.
+
+The uBirthday App uses networking solely for synchronization with iCloud.
+
+In circumstances where we might share your personal information, it will be in compliance with legal and regulatory requirements, or due to mandatory requests from governmental authorities. We firmly believe in maintaining transparency as far as legally permissible concerning information we're required to provide.
+
+Your personal information may be shared, transferred, or publicly disclosed without your prior consent in the following situations:
+1. Directly related to national security or defense;
+2. Directly related to criminal investigations, prosecutions, trials, and the execution of judgments;
+3. When it is necessary to protect the significant lawful rights and interests of you or another individual, but it's difficult to obtain consent;
+4. Information you've made publicly available to the general public;
+5. Personal information collected from legitimately public disclosures, such as legal news reports and government information channels;
+6. Necessary for signing and fulfilling a contract as per the subject's request;
+7. Necessary to maintain the safe and stable operation of the product or service provided, such as detecting and handling faults;
+8. Other circumstances stipulated by laws and regulations.
+
+Thank you for trusting the uBirthday App with your needs. If you have further queries, don't hesitate to reach out to us.
